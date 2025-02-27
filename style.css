@@ -1,0 +1,74 @@
+body {
+    background-color: green;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: cursive;
+
+    text-align: center;
+}
+
+#navbar {
+    background-color: black;
+    margin: 0px;
+    padding: 1px;
+    color: white;
+
+}
+
+#ben{
+    width: 1800px 
+    
+}
+
+#aliados {
+    background-color: green;
+    color: white;
+    display: flex;
+
+}
+
+.aliado {
+    background-color: black;
+    margin: 5px;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    width: 1000px
+}
+
+#viloes {
+  background-color: green;
+  color: black;
+  display: flex;
+
+}
+
+.vilao {
+    background-color: white;
+    margin: 5px;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    width: 1000px;
+
+}
+
+img{
+    height:450px ;
+    width:200px ;
+}
+#icon{
+    height:400px ;
+    width:400px ; 
+}
+
+#pe{
+    display: flex;
+}
+#copyright{
+    height:15px ;
+    width:15px ; 
+}
